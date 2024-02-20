@@ -7,6 +7,7 @@
 - [Data cleaning](#data-cleaning)
 - [Exploratory data analysis](#exploratory-data-analysis)
 - [Data analysis](#data-analysis)
+- [Data Modelling](#data-modelling)
 - [Data visualizations](#data-visualizations)
 - [Results](#results)
 - [Recommendations](#recommendations)
@@ -508,6 +509,11 @@ our  TOP 5 most valuable customers are
 
 
 ```
+
+## Data Modelling
+[Data modelling]
+![DATA MODELLING (CAPSTONE PROJECT)](https://github.com/OluchiTheAnalyst/Global-Superstores-Analysis/assets/152318870/d05e0df6-1795-40ba-92df-d36727d0ef84)
+
 
 ## Data Visualizations
 [Dashboard]
