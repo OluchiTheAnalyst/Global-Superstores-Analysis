@@ -19,17 +19,17 @@ This data analysis project is aimed to analyze the performance and profitability
 Sales data: this data was provided by vephla university and it is "global_superstores.CSV" FILE containing detailed information about each sales made by global_superstores.
 
 ## Tools
-1. Microsoft Excel : this tool was used for
+ 1. Microsoft Excel : this tool was used for
 
  - Data preparation
  - Data cleaning.
 
- 3. SQL (POSTGRESQL): this tool was used for
+ 2. SQL (POSTGRESQL): this tool was used for
     
  - The entire data analysis (Exploratory Data Analysis)
  - Writing of queries.
 
- 5. Microsoft POWER BI: this tool was used for
+ 3. Microsoft POWER BI: this tool was used for
     
  - Data visualization
  - Data modelling
